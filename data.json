@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "title": "Cloud Computing Essentials",
+    "content": "Cloud computing has revolutionized how businesses deploy and scale their applications. This guide explains the fundamental concepts of cloud computing, including IaaS, PaaS, and SaaS models. Learn about major cloud providers, deployment strategies, and cost optimization techniques.",
+    "tags": [
+      "cloud",
+      "computing",
+      "has"
+    ]
+  }
+]
